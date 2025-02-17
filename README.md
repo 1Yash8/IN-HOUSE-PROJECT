@@ -62,4 +62,4 @@ Urbanization has led to a significant reduction in green spaces, impacting air q
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/urban-green-space-optimizer.git
+   git clone https://github.com/your-1Yash8/urban-green-space-optimizer.git
