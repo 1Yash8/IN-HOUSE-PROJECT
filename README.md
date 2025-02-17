@@ -1,7 +1,5 @@
 # Urban Green Space Optimizer
 
-![Project Logo](https://via.placeholder.com/150) <!-- Add a logo if you have one -->
-
 A tool to analyze urban data and suggest optimal locations for new parks and green spaces based on population density and environmental factors.
 
 ---
@@ -65,10 +63,3 @@ Urbanization has led to a significant reduction in green spaces, impacting air q
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/urban-green-space-optimizer.git
-Future Scope
-
-Conclusion
-
-References
-
-GitHub Repository Link
